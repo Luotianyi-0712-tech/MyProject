@@ -1,0 +1,4 @@
+[console_scripts]
+turtle_follower = turtle_follower.turtle_follower:main
+turtle_square = turtle_follower.turtle_square:main
+

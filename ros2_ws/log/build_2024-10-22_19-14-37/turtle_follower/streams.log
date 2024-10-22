@@ -1,0 +1,25 @@
+[4.856s] Invoking command in '/home/luotianyi/ros2_ws/src/turtle_follower': PYTHONPATH=/home/luotianyi/ros2_ws/build/turtle_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/luotianyi/ros2_ws/install/turtle_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_follower build --build-base /home/luotianyi/ros2_ws/build/turtle_follower/build install --record /home/luotianyi/ros2_ws/build/turtle_follower/install.log --single-version-externally-managed install_data
+[6.886s] running egg_info
+[6.890s] writing ../../build/turtle_follower/turtle_follower.egg-info/PKG-INFO
+[6.896s] writing dependency_links to ../../build/turtle_follower/turtle_follower.egg-info/dependency_links.txt
+[6.902s] writing entry points to ../../build/turtle_follower/turtle_follower.egg-info/entry_points.txt
+[6.907s] writing requirements to ../../build/turtle_follower/turtle_follower.egg-info/requires.txt
+[6.908s] writing top-level names to ../../build/turtle_follower/turtle_follower.egg-info/top_level.txt
+[6.921s] reading manifest file '../../build/turtle_follower/turtle_follower.egg-info/SOURCES.txt'
+[6.931s] writing manifest file '../../build/turtle_follower/turtle_follower.egg-info/SOURCES.txt'
+[6.935s] running build
+[6.937s] running build_py
+[6.938s] copying turtle_follower/turtle_square.py -> /home/luotianyi/ros2_ws/build/turtle_follower/build/lib/turtle_follower
+[6.943s] running install
+[6.948s] running install_lib
+[6.949s] copying /home/luotianyi/ros2_ws/build/turtle_follower/build/lib/turtle_follower/turtle_square.py -> /home/luotianyi/ros2_ws/install/turtle_follower/lib/python3.10/site-packages/turtle_follower
+[6.954s] byte-compiling /home/luotianyi/ros2_ws/install/turtle_follower/lib/python3.10/site-packages/turtle_follower/turtle_square.py to turtle_square.cpython-310.pyc
+[6.962s] running install_data
+[6.964s] running install_egg_info
+[6.996s] removing '/home/luotianyi/ros2_ws/install/turtle_follower/lib/python3.10/site-packages/turtle_follower-0.0.0-py3.10.egg-info' (and everything under it)
+[7.002s] Copying ../../build/turtle_follower/turtle_follower.egg-info to /home/luotianyi/ros2_ws/install/turtle_follower/lib/python3.10/site-packages/turtle_follower-0.0.0-py3.10.egg-info
+[7.016s] running install_scripts
+[7.220s] Installing turtle_follower script to /home/luotianyi/ros2_ws/install/turtle_follower/lib/turtle_follower
+[7.223s] Installing turtle_square script to /home/luotianyi/ros2_ws/install/turtle_follower/lib/turtle_follower
+[7.227s] writing list of installed files to '/home/luotianyi/ros2_ws/build/turtle_follower/install.log'
+[7.375s] Invoked command in '/home/luotianyi/ros2_ws/src/turtle_follower' returned '0': PYTHONPATH=/home/luotianyi/ros2_ws/build/turtle_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/luotianyi/ros2_ws/install/turtle_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtle_follower build --build-base /home/luotianyi/ros2_ws/build/turtle_follower/build install --record /home/luotianyi/ros2_ws/build/turtle_follower/install.log --single-version-externally-managed install_data
